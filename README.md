@@ -4,7 +4,7 @@
 <h4 align="left">I am a regular and advanced Information Systems Engineering student at Universidad Tecnológica Nacional FRSF, I am constantly learning and working independently on personal projects. I like to program and create algorithms, data structures and solutions that challenge all the current problems that the markets of software technologies demand and share them.</h4>
  <h1> 
  <h3>TECH STACK SKILLS</h3>
- <h5> Java / C++ / PHP / Symfony / HTML5 / CSS / JavaScript / React / NodeJS / Laravel / Adobe CC / UML / MySQL  </h5>
+ <h5> Java / C++ / PHP / Symfony / HTML5 / CSS / JavaScript / React / NodeJS / Laravel / Adobe CC / UML / MySQL / Rest / Soap </h5>
  <h1> 
  <h3 align="center">Follow Me!</h3>
 <div align="center">

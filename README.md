@@ -4,7 +4,7 @@
  
 
 <a href="https://www.facebook.com/elias.suiva" target="_blank"><img src="https://github.com/eliassuiva/eliassuiva/blob/main/assets/fb.png" alt="Facebook" width="100"></a>
-<a href="  " target="_blank"><img src=" " alt="Twitter" width="30"></a>
+<a href="https://twitter.com/Elias_Suiva" target="_blank"><img src="https://github.com/eliassuiva/eliassuiva/blob/main/assets/tw.png" alt="Twitter" width="30"></a>
 <a href=" " target="_blank"><img src="  " alt="LinkedIn" width="30"></a>
 
 <a href=" " target="_blank"><img src=" " alt="Website" width="30"></a>

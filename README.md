@@ -1,4 +1,4 @@
-<h1 align="center">Hola!!! 👋, Soy Elías</h1>
-<h3 align="center">Analyst Programmer & FullStack Software Developer</h3>
+<h1 align="center">Hola! 👋, Soy Elías</h1>
+<h3 align="center">FullStack Software Developer & Analyst Programmer</h3>
 
  

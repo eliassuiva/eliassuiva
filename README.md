@@ -5,7 +5,7 @@
  <h1> 
  <h3 align="center">Follow Me!</h3>
 
-  <div align="center">
+<div align="center">
 <a href="https://www.facebook.com/elias.suiva" target="_blank" "><img src="https://github.com/eliassuiva/eliassuiva/blob/main/assets/fb.png" alt="Facebook" width="80">  </a>
 <a href="https://twitter.com/Elias_Suiva" target="_blank"><img src="https://github.com/eliassuiva/eliassuiva/blob/main/assets/tw.png" alt="Twitter" width="80"></a>
 <a href="https://www.linkedin.com/in/eliassuiva404/" target="_blank"><img src="https://github.com/eliassuiva/eliassuiva/blob/main/assets/in.png" alt="LinkedIn" width="80"></a>
